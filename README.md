@@ -47,7 +47,7 @@ To use the Real-Time Sign Language Translator, follow these instructions:
 3. Watch the AI avatar perform the sign language in real-time.
 
 ### Contributing
-We welcome contributions from the community! Please follow these steps to contribute:
+I welcome contributions from the community! Please follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch`
 3. Make your changes and commit them: `git commit -m 'Add new feature'`
@@ -63,7 +63,7 @@ We would like to thank the following resources and individuals:
 - The open-source community for their contributions and support.
 
 ### Contact Information
-For any questions or feedback, please contact us at contact@example.com.
+For any questions or feedback, please contact me at [omanijabess47@gmail.com](url).
 
 ### Future Plans
 - Add support for additional sign languages.

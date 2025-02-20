@@ -58,12 +58,12 @@ I welcome contributions from the community! Please follow these steps to contrib
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
-We would like to thank the following resources and individuals:
+I would like to thank the following resources and individuals:
 - Hugging Face for their speech-to-text model.
 - The open-source community for their contributions and support.
 
 ### Contact Information
-For any questions or feedback, please contact me at [omanijabess47@gmail.com](url).
+For any questions or feedback, please contact me at [omanijabess47@gmail.com](url) or [www.linkedin.com/in/jabess-omane-75919b225](url).
 
 ### Future Plans
 - Add support for additional sign languages.
@@ -74,3 +74,4 @@ For any questions or feedback, please contact me at [omanijabess47@gmail.com](ur
 If you encounter any issues, please check the following solutions:
 - Ensure that your microphone is properly connected and configured.
 - Verify that all dependencies are installed correctly.
+- Reach out to me  [omanijabess47@gmail.com](url) or [www.linkedin.com/in/jabess-omane-75919b225](url)
